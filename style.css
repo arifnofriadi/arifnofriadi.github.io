@@ -1106,7 +1106,7 @@ section {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 1284px 680px;
+	background-size: cover;
 	background-color: #464646;
 
 	position: relative;
